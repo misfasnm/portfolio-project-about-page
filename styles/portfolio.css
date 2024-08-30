@@ -55,10 +55,7 @@ p {
 }
 
 @media (max-width: 900px) {
-  .col-lg-6 {
-    flex: 0 0 auto;
-    width: 50%;
-  }
+ 
 
   h1 {
     font-size: 44px;
