@@ -34,16 +34,14 @@ h1 {
 }
 
 .content h3 {
-  font-size: 25px;  
+  font-size: 25px;
   font-family: var(--default-font-family);
   font-weight: bold;
   line-height: 1.5;
- 
 }
 
 .content p {
   font-size: 14px;
-  
 }
 
 p {
@@ -77,7 +75,7 @@ p {
     font-size: 44px;
   }
 
-  .content-container {
+  .content {
     text-align: center;
     padding: 0;
   }
